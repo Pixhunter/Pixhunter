@@ -3,7 +3,7 @@
 Hi! I'm Pix.hunter, this is my creative pseudonym :octocat: 
 
 About me:
--🎓 Student Faculty of Computational Mathematics and Cybernetics of Moscow State University 
+- :mortar_board: Student Faculty of Computational Mathematics and Cybernetics of Moscow State University 
 - :computer: Interested in Full Stack development and DataScience
 - :art: Сreate a lot of creative content from photos and videos to vector images and 3D visualization
 
