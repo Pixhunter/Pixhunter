@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# These are my links to my personal website and social social networks:
+## These are my links to my personal website and social social networks:
 <a href="https://pixhunter.live/"> 
     <img align="left" alt="Pixhunter's Site" width="45px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_pix.svg" />
 </a> 
@@ -54,10 +54,10 @@ Hi! I'm student Faculty of Computational Mathematics and Cybernetics of Moscow S
 <img align="right" alt="GIF" src="https://github.com/Pixhunter/Pixhunter/blob/main/gifs/Paw.gif" width="320" />  
 
 
-#⚡ My GitHub stats:
+# ⚡ My GitHub stats:
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Pixhunter&bg_color=0d1117&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&theme=ocean_dark" alt="Pixhunter" />
 
-#⚡ My Language stats:
+# ⚡ My Language stats:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixhunter&bg_color=0d1117&langs_count=10&layout=compact&hide_title=true&hide_border=true&theme=ocean_dark" alt="Pixhunter" />
 
 
