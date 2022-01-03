@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </a>           
 <a href="https://pin.it/27YQ6fT"> 
     <img align="left" alt="Pixhunter's Pinterest" width="45px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_pint.svg" />
-</a><br>
+</a>
 
 <!--<br><img align="right" alt="GIF" src="https://c.tenor.com/A55dcTvqYMMAAAAM/peach-cat-cute.gif?raw=true" width="320" height="320" />-->
 <img align="left" alt="GIF" src="https://github.com/Pixhunter/Pixhunter/blob/main/gifs/Paw.gif" width="320">  
