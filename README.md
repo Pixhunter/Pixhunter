@@ -1,10 +1,11 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi! I'm Pix.hunter, it's my this is my creative pseudonym :octocat: 
+Hi! I'm Pix.hunter, this is my creative pseudonym :octocat: 
 
 About me:
-
 -🎓 Student Faculty of Computational Mathematics and Cybernetics of Moscow State University 
+- :computer: Interested in Full Stack development and DataScience
+- :art: Сreate a lot of creative content from photos and videos to vector images and 3D visualization
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Pixhunter.Pixhunter)
 
