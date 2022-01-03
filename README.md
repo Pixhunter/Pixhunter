@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <a href="https://pin.it/27YQ6fT"> 
     <img align="left" alt="Pixhunter's Pinterest" width="45px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_pint.svg" />
 </a> 
-![](https://visitor-badge.glitch.me/badge?page_id=Pixhunter.Pixhunter)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=Pixhunter.Pixhunter)
 <br />
 
 <!--
