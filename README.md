@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pixhunter&show_icons=true&theme=ocean_dark" alt="Pixhunter" />-->
  ### My GitHub stats
-![Pix.hunter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pixhunter&bg_color=0d1117&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&heme=ocean_dark)
+![Pix.hunter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pixhunter&bg_color=0d1117&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&theme=ocean_dark)
 
  
