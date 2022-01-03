@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![VisitorCount](https://profile-counter.glitch.me/Pixhunter/count.svg)
+<!--![VisitorCount](https://profile-counter.glitch.me/Pixhunter/count.svg)-->
 
 Hi! I'm Pix.hunter, this is my creative pseudonym :octocat: 
 
