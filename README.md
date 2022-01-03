@@ -45,7 +45,7 @@ Here are some ideas to get you started:
     <img align="left" alt="Pixhunter's Pinterest" width="45px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_pint.svg" />
 </a> 
 
- 
+ </ br>
 
 
 <img align="right" alt="GIF" src="https://github.com/Pixhunter/Pixhunter/blob/main/gifs/Paw.gif" width="320" />  
