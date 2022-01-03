@@ -21,6 +21,13 @@ Here are some ideas to get you started:
 <a href="https://vk.com/pix.hunter">
   <img align="left" alt="Pixhunter's Instagram" width="22px" color="green" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" />
 </a>
+<a href="https://www.youtube.com/channel/UCAcXyPCPW_-krqTqysWOE-A">
+  <img align="left" alt="Pixhunter's YouTube" width="50px" color="green" src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_utb.svg" />
+</a><br>
+<a href="https://www.facebook.com/pix.hunter.94/">
+  <img align="left" alt="Pixhunter's FaceBook" width="50px" color="green" src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_fb.svg" />
+</a><br>
+
 
 <br><img align="right" alt="GIF" src="https://c.tenor.com/A55dcTvqYMMAAAAM/peach-cat-cute.gif?raw=true" width="320" height="320" />
 
