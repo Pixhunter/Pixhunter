@@ -15,28 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://pixhunter.live/"> 
-    <img align="left" alt="Pixhunter's Site" width="50px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_pix.svg" />
+    <img align="left" alt="Pixhunter's Site" width="45px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_pix.svg" />
 </a> 
 <a href="https://www.instagram.com/pix.hunter/">
-    <img align="left" alt="Pixhunter's VK" width="50px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_inst.svg" />
+    <img align="left" alt="Pixhunter's VK" width="45px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_inst.svg" />
 </a> 
 <a href="https://vk.com/pix.hunter">
-    <img align="left" alt="Pixhunter's Instagram" width="50px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_vk.svg" />
+    <img align="left" alt="Pixhunter's Instagram" width="45px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_vk.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCAcXyPCPW_-krqTqysWOE-A">
-    <img align="left" alt="Pixhunter's YouTube" width="50px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_utb.svg" />
+    <img align="left" alt="Pixhunter's YouTube" width="45px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_utb.svg" />
 </a> 
 <a href="https://www.facebook.com/pix.hunter.94/">
-    <img align="left" alt="Pixhunter's FaceBook" width="50px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_fb.svg" />
+    <img align="left" alt="Pixhunter's FaceBook" width="45px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_fb.svg" />
 </a> 
 <a href="https://vimeo.com/pixhunter">  
-    <img align="left" alt="Pixhunter's Vimeo" width="50px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_vim.svg" />
+    <img align="left" alt="Pixhunter's Vimeo" width="45px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_vim.svg" />
 </a> 
 <a href="https://www.artstation.com/pix-hunter"> 
-    <img align="left" alt="Pixhunter's ArtStation" width="50px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_arts.svg" />
+    <img align="left" alt="Pixhunter's ArtStation" width="45px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_arts.svg" />
 </a>           
 <a href="https://pin.it/27YQ6fT"> 
-    <img align="left" alt="Pixhunter's Pinterest" width="50px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_pint.svg" />
+    <img align="left" alt="Pixhunter's Pinterest" width="45px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_pint.svg" />
 </a><br>
 
 <br><img align="right" alt="GIF" src="https://c.tenor.com/A55dcTvqYMMAAAAM/peach-cat-cute.gif?raw=true" width="320" height="320" />
