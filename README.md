@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 </a> 
 
 <br />
-
+<br />
 
 <img align="right" alt="GIF" src="https://github.com/Pixhunter/Pixhunter/blob/main/gifs/Paw.gif" width="320" />  
 
