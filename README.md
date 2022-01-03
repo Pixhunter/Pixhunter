@@ -76,6 +76,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Pixhunter" height="25"/>
 </p>
     
+<img align="right" alt="GIF" src="https://github.com/Pixhunter/Pixhunter/blob/main/gifs/1V7X.gif" width="320" />  
 <!--
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
