@@ -14,20 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<a href="https://pixhunter.live/"> 
+    <img align="left" alt="Pixhunter's Site" width="50px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_pix.svg" />
+</a> 
 <a href="https://www.instagram.com/pix.hunter/">
-  <img align="left" alt="Pixhunter's VK" width="50px" color="green" src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_vk.svg" />
+    <img align="left" alt="Pixhunter's VK" width="50px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_inst.svg" />
 </a> 
 <a href="https://vk.com/pix.hunter">
-  <img align="left" alt="Pixhunter's Instagram" width="22px" color="green" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" />
+    <img align="left" alt="Pixhunter's Instagram" width="22px"  src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCAcXyPCPW_-krqTqysWOE-A">
-  <img align="left" alt="Pixhunter's YouTube" width="50px" color="green" src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_utb.svg" />
+    <img align="left" alt="Pixhunter's YouTube" width="50px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_utb.svg" />
 </a> 
 <a href="https://www.facebook.com/pix.hunter.94/">
-  <img align="left" alt="Pixhunter's FaceBook" width="50px" color="green" src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_fb.svg" />
+    <img align="left" alt="Pixhunter's FaceBook" width="50px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_fb.svg" />
 </a> 
-
+<a href="https://vimeo.com/pixhunter">  
+    <img align="left" alt="Pixhunter's Vimeo" width="50px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_vim.svg" />
+</a> 
+<a href="https://www.artstation.com/pix-hunter"> 
+    <img align="left" alt="Pixhunter's ArtStation" width="50px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_arts.svg" />
+</a>                                    
 
 <br><img align="right" alt="GIF" src="https://c.tenor.com/A55dcTvqYMMAAAAM/peach-cat-cute.gif?raw=true" width="320" height="320" />
 
