@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.instagram.com/pix.hunter/">
-  <img align="left" alt="Pixhunter's VK" width="100px" color="green" src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_vk.svg" />
+  <img align="left" alt="Pixhunter's VK" width="50px" color="green" src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_vk.svg" />
 </a><br>
 <a href="https://vk.com/pix.hunter">
   <img align="left" alt="Pixhunter's Instagram" width="22px" color="green" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" />
