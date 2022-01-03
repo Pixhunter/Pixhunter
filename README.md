@@ -4,7 +4,7 @@ Hi! I'm student Faculty of Computational Mathematics and Cybernetics of Moscow S
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Pixhunter.Pixhunter)
 
-<br />
+
 <!--
 Here are some ideas to get you started:
 
