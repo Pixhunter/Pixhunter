@@ -1,6 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi! I'm student Faculty of Computational Mathematics and Cybernetics of Moscow State University 🎓
+Hi! 
+-🎓 I'm student Faculty of Computational Mathematics and Cybernetics of Moscow State University 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Pixhunter.Pixhunter)
 
@@ -16,7 +17,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+
 ## These are my links to my personal website and social social networks:
 <a href="https://pixhunter.live/"> 
     <img align="left" alt="Pixhunter's Site" width="45px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_pix.svg" />
@@ -43,7 +45,7 @@ Here are some ideas to get you started:
     <img align="left" alt="Pixhunter's Pinterest" width="45px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_pint.svg" />
 </a> 
 
-<br />
+ 
 
 
 <img align="right" alt="GIF" src="https://github.com/Pixhunter/Pixhunter/blob/main/gifs/Paw.gif" width="320" />  
