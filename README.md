@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **Pixhunter/Pixhunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,10 +53,10 @@ Hi! I'm student Faculty of Computational Mathematics and Cybernetics of Moscow S
 <img align="right" alt="GIF" src="https://github.com/Pixhunter/Pixhunter/blob/main/gifs/Paw.gif" width="320" />  
 
 
-### My GitHub stats
+# My GitHub stats:
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Pixhunter&bg_color=0d1117&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&theme=ocean_dark" alt="Pixhunter" />
 
-### My Language stats
+# My Language stats:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixhunter&bg_color=0d1117&langs_count=10&layout=compact&hide_title=true&hide_border=true&theme=ocean_dark" alt="Pixhunter" />
 
 
