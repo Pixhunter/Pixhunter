@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </a><br>
 
 <!--<br><img align="right" alt="GIF" src="https://c.tenor.com/A55dcTvqYMMAAAAM/peach-cat-cute.gif?raw=true" width="320" height="320" />-->
-<img align="left" alt="GIF" src="https://github.com/Pixhunter/Pixhunter/blob/main/gifs/Paw.gif" width="320"> <br>
+<img align="left" alt="GIF" src="https://github.com/Pixhunter/Pixhunter/blob/main/gifs/Paw.gif" width="320"> <br><br>
 
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pixhunter&show_icons=true&theme=ocean_dark" alt="Pixhunter" />-->
 ### My GitHub stats
