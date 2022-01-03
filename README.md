@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </a>
 
 <!--<br><img align="right" alt="GIF" src="https://c.tenor.com/A55dcTvqYMMAAAAM/peach-cat-cute.gif?raw=true" width="320" height="320" />-->
-<img align="right" alt="GIF" src="https://github.com/Pixhunter/Pixhunter/blob/main/gifs/Paw.gif" width="320">  
+<img align="right" alt="GIF" src="https://github.com/Pixhunter/Pixhunter/blob/main/gifs/Paw.gif" width="320">  <br>
 
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pixhunter&show_icons=true&theme=ocean_dark" alt="Pixhunter" />-->
 
@@ -50,5 +50,5 @@ Here are some ideas to get you started:
 ### My Language stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixhunter&bg_color=0d1117&langs_count=10&layout=compact&hide_title=true&hide_border=true&theme=ocean_dark" alt="Pixhunter" />
 
-
+<img align="right" alt="GIF" src="https://github.com/Pixhunter/Pixhunter/blob/main/gifs/y7.gif" width="320">
  
