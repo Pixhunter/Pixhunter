@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Pixhunter's Instagram" width="22px" color="green" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" />
 </a>
 
-<img align="right" alt="GIF" src="https://c.tenor.com/A55dcTvqYMMAAAAM/peach-cat-cute.gif?raw=true" width="320" height="320" />
+<br><img align="right" alt="GIF" src="https://c.tenor.com/A55dcTvqYMMAAAAM/peach-cat-cute.gif?raw=true" width="320" height="320" />
 
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pixhunter&show_icons=true&theme=ocean_dark" alt="Pixhunter" />-->
  ### My GitHub stats
