@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://c.tenor.com/A55dcTvqYMMAAAAM/peach-cat-cute.gif
+<img align="right" alt="GIF" src="https://c.tenor.com/A55dcTvqYMMAAAAM/peach-cat-cute.gif?raw=true" width="320" height="320" />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pixhunter&show_icons=true&theme=ocean_dark" alt="Pixhunter" />
 
