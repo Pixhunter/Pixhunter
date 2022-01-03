@@ -1,9 +1,11 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi! I'm student Faculty of Computational Mathematics and Cybernetics of Moscow State University 🔭
-<!--
-**Pixhunter/Pixhunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm student Faculty of Computational Mathematics and Cybernetics of Moscow State University 🎓
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Pixhunter.Pixhunter)
+
+<br />
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -40,8 +42,6 @@ Here are some ideas to get you started:
 <a href="https://pin.it/27YQ6fT"> 
     <img align="left" alt="Pixhunter's Pinterest" width="45px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_pint.svg" />
 </a> 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Pixhunter.Pixhunter)
 
 <br />
 
