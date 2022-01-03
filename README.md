@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<a href="https://www.instagram.com/pix.hunter/">
+  <img align="left" alt="Pixhunter's Instagram" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" />
+</a>
 
 <img align="right" alt="GIF" src="https://c.tenor.com/A55dcTvqYMMAAAAM/peach-cat-cute.gif?raw=true" width="320" height="320" />
 
