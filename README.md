@@ -40,15 +40,17 @@ Here are some ideas to get you started:
 </a> 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Pixhunter.Pixhunter)
+
 <br />
 
-<p align="right">Hi! I'm student Faculty of Computational Mathematics and Cybernetics of Moscow State University 
+Hi! I'm student Faculty of Computational Mathematics and Cybernetics of Moscow State University 
+    
 <!--
 <br><img align="right" alt="GIF" src="https://c.tenor.com/A55dcTvqYMMAAAAM/peach-cat-cute.gif?raw=true" width="320" height="320" />
 <img align="right" alt="GIF" src="https://github.com/Pixhunter/Pixhunter/blob/main/gifs/y7.gif" width="320">
 -->
-<img align="right" alt="GIF" src="https://github.com/Pixhunter/Pixhunter/blob/main/gifs/Paw.gif" width="320" />  
 
+<img align="right" alt="GIF" src="https://github.com/Pixhunter/Pixhunter/blob/main/gifs/Paw.gif" width="320" />  
 
 
 ### My GitHub stats
