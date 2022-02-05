@@ -10,7 +10,7 @@ About me:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Pixhunter.Pixhunter)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pixhunter&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pixhunter&theme=github_dark)
 
 
 <!--
