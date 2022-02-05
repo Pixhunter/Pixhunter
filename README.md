@@ -8,11 +8,11 @@ About me:
 - :computer: Interested in Full Stack development and DataScience
 - :art: Сreate a lot of creative content from photos and videos to vector images and 3D visualization
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Pixhunter.Pixhunter)
+
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pixhunter&theme=github_dark)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Pixhunter.Pixhunter)
 <!--
 Here are some ideas to get you started: 
 
