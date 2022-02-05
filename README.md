@@ -14,7 +14,9 @@ About me:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pixhunter&theme=github_dark)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Pixhunter.Pixhunter)
+![](https://visitor-badge.glitch.me/badge?page_id=Pixhunter.Pixhunter)
+
+
 <!--
 Here are some ideas to get you started: 
 
