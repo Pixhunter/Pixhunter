@@ -10,9 +10,6 @@ About me:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Pixhunter.Pixhunter)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pixhunter&theme=github_dark)
-
-
 <!--
 Here are some ideas to get you started: 
 
@@ -65,6 +62,8 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixhunter&bg_color=0d1117&langs_count=10&layout=compact&hide_title=true&hide_border=true&theme=ocean_dark" alt="Pixhunter" /></p>
 
 <br />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pixhunter&theme=github_dark)
 
 <p align="left" >
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Pixhunter" height="25"/>
