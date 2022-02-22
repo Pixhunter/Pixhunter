@@ -1,6 +1,8 @@
 <!--### Hi <%username%> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![VisitorCount](https://profile-counter.glitch.me/Pixhunter/count.svg)-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20<%username%>!&fontSize=75&animation=fadeIn&fontAlignY=18&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=33&descAlign=62)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20username!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Wellcome%20to%20my%20Profile!&descAlignY=51&descAlign=62)
+
 
 Hi! I'm Pix.hunter, this is my creative pseudonym :octocat: 
 
