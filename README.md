@@ -87,7 +87,7 @@ Here are some ideas to get you started:
     
 <img align="left" alt="GIF" src="https://github.com/Pixhunter/Pixhunter/blob/main/gifs/1V7X.gif" width="320" />  
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:23b86b,100:6b23b8&height=250&section=header&fontColor=a2da36&text=Hello%20%username%!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Wellcome%20to%20my%20Profile!&descAlignY=51&descAlign=62)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:23b86b,100:6b23b8&height=-250&section=header&fontColor=a2da36&text=Hello%20%username%!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Wellcome%20to%20my%20Profile!&descAlignY=51&descAlign=62)
 <!--
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
