@@ -2,7 +2,7 @@
 ![VisitorCount](https://profile-counter.glitch.me/Pixhunter/count.svg)
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:20cf0c,100:a82da8&height=300&section=header&text=Hello%20username!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Wellcome%20to%20my%20Profile!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:20cf0c,0:FFFFFF,100:710ccf&height=300&section=header&text=Hello%20username!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Wellcome%20to%20my%20Profile!&descAlignY=51&descAlign=62)
 
 
 Hi! I'm Pix.hunter, this is my creative pseudonym :octocat: 
