@@ -1,5 +1,6 @@
-### Hi <%username%> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<!--![VisitorCount](https://profile-counter.glitch.me/Pixhunter/count.svg)-->
+<!--### Hi <%username%> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![VisitorCount](https://profile-counter.glitch.me/Pixhunter/count.svg)-->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20<%username%>!&fontSize=75&animation=fadeIn&fontAlignY=18&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=33&descAlign=62)
 
 Hi! I'm Pix.hunter, this is my creative pseudonym :octocat: 
 
@@ -82,6 +83,8 @@ Here are some ideas to get you started:
 </p>
     
 <img align="left" alt="GIF" src="https://github.com/Pixhunter/Pixhunter/blob/main/gifs/1V7X.gif" width="320" />  
+
+
 <!--
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
