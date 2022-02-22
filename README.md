@@ -15,7 +15,7 @@ About me:
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pixhunter&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pixhunter&theme=default)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Pixhunter.Pixhunter)
