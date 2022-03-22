@@ -33,12 +33,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-
+<!-- 
 ## These are my links to my personal website and social networks:
 <a href="https://pixhunter.live/"> 
     <img align="left" alt="Pixhunter's Site" width="45px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_pix.svg" />
 </a> 
-<!-- 
+
 <a href="https://www.instagram.com/pix.hunter/">
     <img align="left" alt="Pixhunter's VK" width="45px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_inst.svg" />
 </a>
@@ -57,12 +57,12 @@ Here are some ideas to get you started:
 </a>
 <a href="https://vimeo.com/pixhunter">  
     <img align="left" alt="Pixhunter's Vimeo" width="45px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_vim.svg" />
-</a> -->
+</a> 
 <a href="https://www.artstation.com/pix-hunter"> 
     <img align="left" alt="Pixhunter's ArtStation" width="45px"  src="https://github.com/Pixhunter/Pixhunter/blob/main/icons/ico_arts.svg" />
 </a>           
  
-
+-->
 <br />
 <br />
 
