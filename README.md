@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 <br />
 
-
+<!--
 
 <p align="left" >
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Pixhunter" height="25"/>
@@ -87,6 +87,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Pixhunter" height="25"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Pixhunter" height="25"/>
 </p>
+-->
     
 <img align="left" alt="GIF" src="https://github.com/Pixhunter/Pixhunter/blob/main/gifs/1V7X.gif" width="320" />  
 
