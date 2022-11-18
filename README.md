@@ -11,6 +11,9 @@ About me:
 - :mortar_board: Student Faculty of Computational Mathematics and Cybernetics of Moscow State University 
 - :computer: Interested in Full Stack development 
 - :art: Сreate a lot of creative content from photos and videos to vector images and 3D visualization
+- my <a href="https://play.google.com/store/apps/developer?id=Pix.hunter">
+    Google Play
+</a> 
 
 
 
