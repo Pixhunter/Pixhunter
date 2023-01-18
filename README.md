@@ -94,7 +94,7 @@ Here are some ideas to get you started:
     
 <img align="left" alt="GIF" src="https://github.com/Pixhunter/Pixhunter/blob/main/gifs/1V7X.gif" width="320" />  
 
-![footer](https://capsule-render.vercel.app/api?type=Rect&color=0:23b86b,100:6b23b8&height=40&section=header&fontAlignX=50&fontColor=a2da36&text=Have%20a%20good%20day%20:P&fontSize=20&animation=fadeIn&fontAlignY=50)
+![footer](https://capsule-render.vercel.app/api?type=Rect&color=0:1ad1ed,100:e20ff5&height=40&section=header&fontAlignX=50&fontColor=a2da36&text=Have%20a%20good%20day%20:P&fontSize=20&animation=fadeIn&fontAlignY=50)
 
 <!--
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
